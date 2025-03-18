@@ -1,0 +1,75 @@
+/* Footer Styles */
+
+
+.icon-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.icon-item p {
+    margin-top: 10px;
+    font-size: 10px;
+    color: white;
+}
+
+/* Optional: You can style the phone icon with a different color */
+.fa-phone-alt {
+    color: #25D366; /* Green color for phone */
+}
+
+/* Optional: Add a bottom border */
+
+
+/* Copyright Section */
+
+.navbar-brand{
+    
+        font-family: "Averia Libre", system-ui;
+        font-weight: 700;
+        font-style: italic;
+      
+}
+.navbar-brand:hover{
+    color: #1DB954;
+}
+
+.img-fluid:hover{
+transform: scale(1.1);
+}
+.h1{
+    
+        font-family: "Josefin Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-style: italic;
+      }
+*{
+    @keyframes appear {
+        from{
+            opacity: 0;
+            scale:0.5;
+        }
+        to{
+            opacity: 1;
+            scale: 1px;
+        }
+    }
+}
+
+.display-5:hover{
+    
+    transform: scale(1.1);
+
+}
+
+.our{
+
+    transform: scale(1.1);
+}
+
+.nav-link:hover{
+
+    transform: scale(1.1);
+}
