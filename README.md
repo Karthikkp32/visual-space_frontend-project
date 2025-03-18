@@ -30,6 +30,12 @@ The website features:
 ![image](https://github.com/user-attachments/assets/ef24cfa4-e76c-47c7-bccd-623547857e89)
 ![image](https://github.com/user-attachments/assets/a12de7c5-e927-48f0-ae2d-9e39c548e773)
 ![Screenshot 2025-03-18 210953](https://github.com/user-attachments/assets/c3d25603-2ad1-4d6f-b005-fa599c4c9a0e)
+![Screenshot 2025-03-18 210922](https://github.com/user-attachments/assets/a7333ffb-7163-4e45-9671-77b262c9a0f7)
+![Screenshot 2025-03-18 210913](https://github.com/user-attachments/assets/373c353a-8f4a-44ec-9c56-f4af63d7f868)
+![Screenshot 2025-03-18 210857](https://github.com/user-attachments/assets/8622008f-8e2c-4830-88ac-84081ecdb0f4)
+
+
+
 
 
 
